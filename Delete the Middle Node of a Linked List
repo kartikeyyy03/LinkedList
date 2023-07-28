@@ -22,10 +22,10 @@ class Solution {
             size++;
         }
 
-
         if(size==1){
             return head.next;
         }
+
 
         ListNode node=head;
 
